@@ -1,0 +1,9 @@
+R0=0	R1=10	R2=-1	R3=-1	R4=-1	R5=-1	R6=-1	R7=-1	R8=-1	R9=-1	R10=-1	R11=-1	R12=-1	R13=-1	R14=-1	R15=-1	PC : 0	NumInst : 1	RegUsed : 6.25	MemUsed (lw & sw) : 1
+R0=0	R1=10	R2=1	R3=-1	R4=-1	R5=-1	R6=-1	R7=-1	R8=-1	R9=-1	R10=-1	R11=-1	R12=-1	R13=-1	R14=-1	R15=-1	PC : 1	NumInst : 2	RegUsed : 12.50	MemUsed (lw & sw) : 2
+R0=0	R1=10	R2=1	R3=0	R4=-1	R5=-1	R6=-1	R7=-1	R8=-1	R9=-1	R10=-1	R11=-1	R12=-1	R13=-1	R14=-1	R15=-1	PC : 2	NumInst : 3	RegUsed : 18.75	MemUsed (lw & sw) : 3
+R0=0	R1=10	R2=1	R3=1	R4=-1	R5=-1	R6=-1	R7=-1	R8=-1	R9=-1	R10=-1	R11=-1	R12=-1	R13=-1	R14=-1	R15=-1	PC : 3	NumInst : 4	RegUsed : 18.75	MemUsed (lw & sw) : 3
+R0=0	R1=10	R2=10	R3=1	R4=-1	R5=-1	R6=-1	R7=-1	R8=-1	R9=-1	R10=-1	R11=-1	R12=-1	R13=-1	R14=-1	R15=-1	PC : 4	NumInst : 5	RegUsed : 18.75	MemUsed (lw & sw) : 3
+R0=0	R1=10	R2=10	R3=1	R4=0	R5=-1	R6=-1	R7=-1	R8=-1	R9=-1	R10=-1	R11=-1	R12=-1	R13=-1	R14=-1	R15=-1	PC : 5	NumInst : 6	RegUsed : 25.00	MemUsed (lw & sw) : 3
+R0=0	R1=10	R2=10	R3=1	R4=0	R5=-1	R6=-1	R7=-1	R8=-1	R9=-1	R10=-1	R11=-1	R12=-1	R13=-1	R14=-1	R15=-1	PC : 6	NumInst : 7	RegUsed : 25.00	MemUsed (lw & sw) : 3
+R0=0	R1=10	R2=10	R3=1	R4=0	R5=-1	R6=-1	R7=-1	R8=-1	R9=-1	R10=-1	R11=-1	R12=-1	R13=-1	R14=-1	R15=-1	PC : 7	NumInst : 8	RegUsed : 25.00	MemUsed (lw & sw) : 3
+Memory Used : 6
